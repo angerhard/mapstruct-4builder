@@ -10,7 +10,7 @@
 
     <groupId>de.andreasgerhard</groupId>
     <artifactId>mapstruct-4builder</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
 
     <licenses>
         <license>

@@ -10,7 +10,7 @@
 
     <groupId>de.andreasgerhard</groupId>
     <artifactId>mapstruct-4builder</artifactId>
-    <version>0.1</version>
+    <version>0.1.1</version>
 
     <licenses>
         <license>
@@ -48,12 +48,11 @@
             <version>1.2.0.Final</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
+         <dependency>
+           <groupId>junit</groupId>
+           <artifactId>junit</artifactId>
+           <version>[4.13.1,)</version>
+         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
